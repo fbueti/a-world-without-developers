@@ -1,10 +1,10 @@
 {
-	"name": "Puppify",
-	"description": "Take any bland website and make it pupperific.",
-	"version": "2.0",
-	"homepage_url": "http://www.jeffreythompson.org",
+	"name": "A World Without Developers",
+	"description": "Rewind websites back to when they were just ideas on paper. Project for HAR-371: Creative Programming II.",
+	"version": "1.0",
+	"homepage_url": "http://www.francescabueti.com",
 	"browser_action": {
-		"default_title": "Puppify!",
+		"default_title": "Mockupify",
 		"default_icon": "icon.png"
 	},
 	"permissions": [
