@@ -12,7 +12,5 @@
 	$('*').css( { 'font-family': 'Schoolbell' });
 	$('a').css( { 'color': 'black!important' });
 	$('input').css( { 'border': 'solid 1px black' });
-	$( "*" ).each(function( index ) {
-  		console.log( this );
-	});
+
 })();
